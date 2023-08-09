@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+  <img src="https://fakeimg.pl/1200x630/?text=Banner">
+</div>
+
+Welcome to my profile! 
+My name is Matias, i live in Buenos Aires and i am a 💻 **`Systems Analyst Technician`** and also exploring about 🎮 **`Game Design`**.
+
+
