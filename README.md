@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 </div>
 
 <p>Welcome to my profile!</p>
-<p>My name is Matias, i live in Buenos Aires and i am a 💻 **`Systems Analyst Technician`** and also exploring about 🎮 **`Game Design`**</p>.
+My name is Matias, i live in Buenos Aires and i am a 💻 **`Systems Analyst Technician`** and also exploring about 🎮 **`Game Design.`**
 
 
