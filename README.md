@@ -23,7 +23,7 @@ My name is Matias. I live in Buenos Aires and i’m a 💻 <b>Systems Analyst Te
 ### Currently learning
 
 - <img src="https://img.shields.io/badge/C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff">
-- <img src="https://img.shields.io/badge/unreal%20engine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white">
+- <img src="https://img.shields.io/badge/unreal%20engine-%23313131?style=for-the-badge&logo=unrealengine&logoColor=white">
 
 ### Tech & Tools Preference
 
