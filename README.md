@@ -1,32 +1,14 @@
-<!--
-**matiasgomez05/matiasgomez05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <div align="center">
   <img src="https://fakeimg.pl/1200x630/?text=Banner">
 </div>
 
 ### Welcome to my profile! 👋
-
 Thanks for checking it 😁 My name is Matias, i live in Buenos Aires and i’m a 💻 <b>Systems Analyst Technician</b>, working as 💼 <b>Fullstack Web Developer</b> and exploring about 🎮 <b>Game Design</b>.
----
+
 
 ### Currently learning
-
 - <img src="https://img.shields.io/badge/C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff">
 - <img src="https://img.shields.io/badge/unreal%20engine-%23313131?style=flat&logo=unrealengine&logoColor=white">
----
 
 ### Tech & Tools Preference
 
@@ -48,8 +30,8 @@ Thanks for checking it 😁 My name is Matias, i live in Buenos Aires and i’m 
 - <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white">
 - <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
 - <img src="https://img.shields.io/badge/-NodeJs-3C873A?style=flat&logo=Node.js&logoColor=white">
----
 
+---
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=matiasgomez05&show_icons=true&hide_border=true)](https://github.com/matiasgomez05)
 ---
 
@@ -58,7 +40,7 @@ Thanks for checking it 😁 My name is Matias, i live in Buenos Aires and i’m 
 - [![Mail](https://img.shields.io/badge/Hotmail-000000?style=flat&logo=gmail&logoColor=white")][mail]
 - [![LinkedIn](http://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedIn&logoColor=white)][linkedin]
 - [![Instagram](http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)][instagram]
-- [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)][itch]
+- [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=flat&logo=Itch.io&logoColor=white)][itch]
 
 [mail]:mailto:matias_gomez05@hotmail.com
 [instagram]: https://www.instagram.com/misame05/
