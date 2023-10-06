@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://fakeimg.pl/1200x630/?text=Banner">
 </div>
----
 
 ### Welcome to my profile! 👋
+
 Thanks for checking it 😁 My name is Matias, i live in Buenos Aires and i’m a 💻 <b>Systems Analyst Technician</b>, working as 💼 <b>Fullstack Web Developer</b> and exploring about 🎮 <b>Game Design</b>.
 ---
 
@@ -41,6 +41,7 @@ Thanks for checking it 😁 My name is Matias, i live in Buenos Aires and i’m 
 ---
 
 ### Other Languages, Frameworks, Platforms and Libraries i know
+
 - <img src="http://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white"> 
 - <img src="https://img.shields.io/badge/C%23-%2300599C.svg?style=flat&logo=c-sharp&logoColor=white">
 - <img src="https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white">
@@ -63,4 +64,4 @@ Thanks for checking it 😁 My name is Matias, i live in Buenos Aires and i’m 
 [instagram]: https://www.instagram.com/misame05/
 [linkedin]: https://www.linkedin.com/in/matias-gomez-1b8933181/
 [itch]: https://matiasgomez05.itch.io/
----
+
