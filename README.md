@@ -1,6 +1,6 @@
 <div align="center">
   <!-- <img src="https://fakeimg.pl/1200x630/?text=Banner"> -->
-  <img src="banner.png">
+  <img src="bannerGithub.png">
 </div>
 
 ---
