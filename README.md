@@ -12,7 +12,7 @@ Thanks for checking it 😁 My name is Matias, i live in Buenos Aires and i’m 
 
 ### Currently learning
 - <img src="https://img.shields.io/badge/C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff">
-- <img src="https://img.shields.io/badge/unreal%20engine-%23313131?style=flat&logo=unrealengine&logoColor=white">
+- <img src="https://img.shields.io/badge/unreal%20engine-%23313131?style=flat&logo=Unrealengine&logoColor=white">
 
 ---
 
