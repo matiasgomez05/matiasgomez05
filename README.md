@@ -6,7 +6,7 @@
 ---
 
 ### Welcome to my profile! 👋
-Thanks for checking it 😁 My name is Matias, i live in Buenos Aires and i’m a 💻 <b>Systems Analyst Technician</b>, working as 💼 <b>Fullstack Web Developer</b> and exploring about 🎮 <b>Game Design</b> and ⚙️ Game QA.
+Thanks for checking it 😁 My name is Matias, i live in Buenos Aires and i’m a 💻 <b>Systems Analyst Technician</b>, working as 💼 <b>Fullstack Web Developer</b> and exploring about 🎮 <b>Game Design</b> and ⚙️ <b>Game QA</b>.
 
 ---
 
